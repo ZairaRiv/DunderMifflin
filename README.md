@@ -3,7 +3,7 @@ Machine Learning
 
 
 ## Team Members
-<sub><b> Austin Cain </b><sub></br>
+<sub><h1><b> Austin Cain </b> </h1><sub></br>
 <sub> Andrew Valenzuela <sub><br/>
 <sub> Micky Vue <sub><br/>
 <sub> Zaira Rivera <sub><br/>
